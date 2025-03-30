@@ -81,7 +81,8 @@ struct EditGoalsView: View {
                         EditableCard(title: "Active Minutes", icon: "timer", color: .green, value: $activeMinutes)
                         EditableCard(title: "Consumed", icon: "bolt.fill", color: .blue, value: $caloriesConsumed)
                     }
-                    
+                    .padding(.bottom, 30)
+                    Spacer()
                     Button(action: {
                         dismiss()
                     }) {
