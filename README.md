@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Pawformance** is a fitness tracker designed specifically for your pet! Track your pet's physical activity and health metrics, set personalized goals, and monitor their progress. Pawformance uses Artificial Intelligence to provide insights, including a health rating, feedback, and next steps for maintaining your pet's well-being. Plus, interact with an AI-powered chatbot fully integrated into the app for all your pet-related questions and suggestions.
+**Pawformance** is a fitness tracker designed specifically for your pet! Track your pet's physical activity and health metrics, set personalized goals, and monitor their progress.
 
 ## Features
 
@@ -13,19 +13,6 @@
 - **Set Custom Goals:**  
   - Set specific goals like "Minutes Active," "Distance Ran," or "Calories Burned."
   - Track goal completion and see how many goals your pet has achieved.
-
-- **AI Health Rating:**  
-  - Based on the metrics you provide, **Pawformance** calculates a health rating for your pet (out of 10).
-  - Keep an eye on your pet’s health with actionable insights.
-
-- **AI Chatbot Integration:**  
-  - Chat with an AI-powered assistant integrated directly into the app.
-  - Get suggestions, next steps, and feedback based on your pet’s activity.
-  - Ask the chatbot for advice on how to improve your pet's fitness routine and health.
-
-- **Weekly Reset and Archiving:**  
-  - All values reset weekly for a fresh start.
-  - Historical data is archived for future reference.
 
 ## Installation
 
@@ -58,7 +45,6 @@ Before you begin, ensure you have the following installed on your machine:
 ## Technologies Used
 
 - **SwiftUI** for the user interface.
-- **OpenAI API** for AI-powered chatbot functionality.
 
 ## License
 
@@ -67,7 +53,6 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 ## Acknowledgements
 
 - **OpenAI**: For the AI-powered chatbot and health score calculation.
-- **SwiftUI**: For building modern iOS user interfaces.
 - 
 ## Contact
 
